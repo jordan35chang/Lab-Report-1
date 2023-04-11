@@ -15,12 +15,14 @@ Since I am using a Mac, git does not need to be installed and instead can move o
 After opening the terminal, input the command(not including the $, and replacing zz with the letters of your account):
 $ ssh cs15lsp23zz@ieng6.ucsd.edu
 When using the cs15l account, I was unable to log in even when I input my password
-![Image]()
+![Image](ErrorMessage.png)
 I instead did the normal ucsd email, and after logging in, the terminal should return something similar to this:
-![Image]()
+![Image](Login-SC.png)
 
 ## Step 4: Testing Commands
 After logging in, try running some commands such as "cd ~", "cd", "ls -lat", "ls -a" on the remote computer. Next, try to run the same commands on your computer. Running a command on the remote computer should look similar to this:
 ![Image](Test-Command(Remote).png)
+
 While running a command on your computer can look like this:
+
 ![Image](Test-Command.png)
