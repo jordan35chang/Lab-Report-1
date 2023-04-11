@@ -14,3 +14,9 @@ Since I am using a Mac, git does not need to be installed and instead can move o
 After opening the terminal, input the command(not including the $, and replacing zz with the letters of your account):
 $ ssh cs15lsp23zz@ieng6.ucsd.edu
 Since I was having trouble logging in with my cs15l account, I instead did the normal ucsd email, and after logging in, the terminal should return something similar to this:
+![Image](Screen Shot 2023-04-06 at 2.14.25 PM.png)
+
+## Step 4: Testing Commands
+After logging in, try running some commands such as "cd ~", "cd", "ls -lat", "ls -a" on the remote computer. Next, try to run the same commands on your computer. Running a command on the remote computer should look similar to this:
+
+While running a command on your computer can look like this:
