@@ -21,6 +21,6 @@ I instead did the normal ucsd email, and after logging in, the terminal should r
 
 ## Step 4: Testing Commands
 After logging in, try running some commands such as "cd ~", "cd", "ls -lat", "ls -a" on the remote computer. Next, try to run the same commands on your computer. Running a command on the remote computer should look similar to this:
-![Image]()
+![Image](Test-Command(Remote).png)
 While running a command on your computer can look like this:
-![Image]()
+![Image](Test-Command.png)
