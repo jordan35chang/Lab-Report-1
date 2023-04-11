@@ -18,5 +18,6 @@ Since I was having trouble logging in with my cs15l account, I instead did the n
 
 ## Step 4: Testing Commands
 After logging in, try running some commands such as "cd ~", "cd", "ls -lat", "ls -a" on the remote computer. Next, try to run the same commands on your computer. Running a command on the remote computer should look similar to this:
-
+![Image](Screen Shot 2023-04-06 at 3.08.40 PM.png)
 While running a command on your computer can look like this:
+![Image](Screen Shot 2023-04-06 at 3.14.02 PM.png)
