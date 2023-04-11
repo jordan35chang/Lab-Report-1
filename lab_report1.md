@@ -7,6 +7,7 @@ Once you find your account, reset the password by following the instructions
 ## Step 2: VSCode
 If not already installed, follow the instructions on the VSCode Website [Link](https://code.visualstudio.com/) to install VSCode.
 After installation, you should be able to open the application and upon opening, see a window similar to the following:
+![Image](VSCode-SC.png)
 
 
 ## Step 3: Remotely Connecting
@@ -14,12 +15,12 @@ Since I am using a Mac, git does not need to be installed and instead can move o
 After opening the terminal, input the command(not including the $, and replacing zz with the letters of your account):
 $ ssh cs15lsp23zz@ieng6.ucsd.edu
 When using the cs15l account, I was unable to log in even when I input my password
-
+![Image]()
 I instead did the normal ucsd email, and after logging in, the terminal should return something similar to this:
-
+![Image]()
 
 ## Step 4: Testing Commands
 After logging in, try running some commands such as "cd ~", "cd", "ls -lat", "ls -a" on the remote computer. Next, try to run the same commands on your computer. Running a command on the remote computer should look similar to this:
-
+![Image]()
 While running a command on your computer can look like this:
-
+![Image]()
