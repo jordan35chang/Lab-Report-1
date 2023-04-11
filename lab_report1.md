@@ -15,7 +15,7 @@ Since I am using a Mac, git does not need to be installed and instead can move o
 After opening the terminal, input the command(not including the $, and replacing zz with the letters of your account):
 $ ssh cs15lsp23zz@ieng6.ucsd.edu
 When using the cs15l account, I was unable to log in even when I input my password
-![Image](ErrorMessage.png)
+![Image](ErrorMessage-SC.png)
 I instead did the normal ucsd email, and after logging in, the terminal should return something similar to this:
 ![Image](Login-SC.png)
 
