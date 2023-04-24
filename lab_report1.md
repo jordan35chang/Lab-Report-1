@@ -14,9 +14,7 @@ After installation, you should be able to open the application and upon opening,
 Since I am using a Mac, git does not need to be installed and instead can move on to opening the terminal in VSCode(View -> Terminal)
 After opening the terminal, input the command(not including the $, and replacing zz with the letters of your account):
 $ ssh cs15lsp23zz@ieng6.ucsd.edu
-When using the cs15l account, I was unable to log in even when I input my password
-![Image](ErrorMessage-SC.png)
-I instead did the normal ucsd email, and after logging in, the terminal should return something similar to this:
+Once you are logged in, you should see something like this:
 ![Image](Login-SC.png)
 
 ## Step 4: Testing Commands
